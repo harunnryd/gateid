@@ -1,7 +1,7 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "harunnryd/Gateid",
+    "description": "API gateway written in PHP7 and Lumen.",
+    "keywords": ["microservices", "gateway", "lumen", "laravel", "proxyreverse"],
     "license": "MIT",
     "type": "project",
     "require": {
