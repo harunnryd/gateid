@@ -24,7 +24,7 @@ $ composer install
 $ php artisan passport:install
 $ vim storage/app/routes.json
 ```
-> if you need to use Oauth2 (Passport) please tag oauth: fire on middleware
+> if you need to use Oauth2 (Passport) please tag oauth:api on middleware
 
 ```json
 # example routes.json
