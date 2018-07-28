@@ -1,5 +1,5 @@
 {
-    "name": "harunnryd/Gateid",
+    "name": "harunnryd/gateid",
     "description": "API gateway written in PHP7 and Lumen.",
     "keywords": ["microservices", "gateway", "lumen", "laravel", "proxyreverse"],
     "license": "MIT",
